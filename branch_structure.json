@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-906-fe-19-preserve-pool-deposit-amount-on-failure",
+    "fix/issue-911-fe-24-add-search-clear-interaction",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-906-fe-19-preserve-pool-deposit-amount-on-failure": "main",
+    "fix/issue-911-fe-24-add-search-clear-interaction": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-906-fe-19-preserve-pool-deposit-amount-on-failure",
+    "fix/issue-911-fe-24-add-search-clear-interaction",
+    "origin"
+  ]
+}
