@@ -5,6 +5,6 @@ build/
 target/
 coverage/
 *.env
-.env.*
 !.env.example
 \n*.tsbuildinfo
+config.bat
